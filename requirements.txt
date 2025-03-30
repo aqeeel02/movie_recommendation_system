@@ -1,7 +1,0 @@
-streamlit
-pandas
-scikit-surprise
-scikit-learn
-fuzzywuzzy
-python-Levenshtein
-nltk
