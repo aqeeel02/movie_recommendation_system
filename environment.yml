@@ -1,0 +1,8 @@
+name: your_env_name
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.x
+  - streamlit
+  - scikit-surprise
